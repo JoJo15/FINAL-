@@ -1,0 +1,47 @@
+#title {
+  background-color: black;
+  color: red;
+  font-family: OCR A Std;
+  padding: 16px;
+}
+
+#kevin {
+  background-color: black;
+  height: 800px;
+  width: 250px;
+  padding: 16px;
+  float: left;
+}
+
+img {
+  width: 250px;
+  height: 800px;
+}
+
+body {
+  background-color: grey;
+}
+
+#goods {
+  background-color: #333;
+  padding: 16px;
+  height: 800px;
+  width: 600px;
+  float:left;
+}
+
+#boy {
+  background-color: black;
+  padding: 16px;
+  height: 800px;
+  width: 250px;
+  float: right;
+}
+
+p {
+  color: white;
+}
+
+#clearFloat {
+  clear: both;
+}
